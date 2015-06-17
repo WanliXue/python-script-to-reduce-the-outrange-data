@@ -17,7 +17,7 @@ newpathfile = fpath+'/GPSData/'
 
 # rewrite the txt file delete the out of range point
 def rewritefile(filename):
-# /Users/wanli/PycharmProjects/GPSPointCheck/GPSData
+# /Users/xx/PycharmProjects/GPSPointCheck/GPSData
     count = 0;
     newfilename = fpath+'/GPSData/new' + filename
     filename = fpath+'/GPSData/'+filename;
